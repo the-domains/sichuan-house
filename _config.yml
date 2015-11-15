@@ -1,0 +1,23 @@
+name: Sichuan House
+favicon: null
+layout_spectrum: 0.09681181143969297
+typography_spectrum: 0.7393102862406522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.40327436244115233
+  lightness: 0.01585326250642538
+  saturation: 0.5316321700811386
+  rhythmicContrast: 0.23955870838835835
+purpose: []
